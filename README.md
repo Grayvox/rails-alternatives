@@ -5,8 +5,11 @@ Welcome to the Rails Alternatives list - a curated guide to frameworks for those
 Rails is great and all - but branching off is never a bad thing. Many other web frameworks exist, but for those that truly enjoy the Rails way, this list will provide other frameworks that are similar in nature.
 
 **Most Starred Framework on Rails Alternatives:**
+
 🥇 [Django](https://github.com/django/django)
+
 🥈 [Laravel](https://github.com/laravel)
+
 🥉 [Spring Boot](https://github.com/spring-projects/spring-boot)
 
 ## DISCLAIMER
