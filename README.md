@@ -50,6 +50,12 @@ There are some frameworks not listed here that some would argue are Rails-like, 
 | ---- | -------- | -------- | ----- |
 | [Saturn](https://github.com/SaturnFramework/Saturn) | 709 | [Docs](https://saturnframework.org/explanations/overview.html) |  |
 
+### Go
+
+| Name | ⭐ Stars | Learning | Notes |
+| ---- | -------- | -------- | ----- |
+| [Revel](https://github.com/revel/revel) | 13.1k | [Docs](https://revel.github.io/manual/index.html) [Quickstart](https://revel.github.io/tutorial/index.html) [Examples](https://revel.github.io/examples/index.html) |  |
+
 ### Java / JVM-based
 
 | Name | ⭐ Stars | Learning | Notes |
@@ -84,6 +90,7 @@ There are some frameworks not listed here that some would argue are Rails-like, 
 | ---- | -------- | -------- | ----- |
 | [Django](https://github.com/django/django) | 78.4k | [Docs](https://docs.djangoproject.com/en/5.1/intro/) <br> [Lecture](https://cs50.harvard.edu/web/2020/weeks/3/) |  |
 | [Masonite](https://github.com/MasoniteFramework/masonite) | 2.2k | [Docs](https://docs.masoniteproject.com) <br> [Quickstart](https://docs.masoniteproject.com/prologue/create-a-blog) |  |
+
 ### Ruby
 
 | Name | ⭐ Stars | Learning | Notes |
@@ -94,4 +101,4 @@ There are some frameworks not listed here that some would argue are Rails-like, 
 
 | Name | ⭐ Stars | Learning | Notes |
 | ---- | -------- | -------- | ----- |
-| [Loco](https://github.com/loco-rs/loco) | 3.7k | [Docs](https://loco.rs/docs/getting-started/tour/) <br> [Quickstart](https://loco.rs/docs/starters/saas/) <br> [Screencasts](https://loco.rs/casts/) |  |
+| [Loco](https://github.com/loco-rs/loco) | 3.7k | [Docs](https://loco.rs/docs/getting-started/tour/) <br> [Examples](https://loco.rs/docs/starters/saas/) <br> [Screencasts](https://loco.rs/casts/) |  |
