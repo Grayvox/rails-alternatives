@@ -54,7 +54,7 @@ There are some frameworks not listed here that some would argue are Rails-like, 
 
 | Name | ⭐ Stars | Learning | Notes |
 | ---- | -------- | -------- | ----- |
-| [Revel](https://github.com/revel/revel) | 13.1k | [Docs](https://revel.github.io/manual/index.html) [Quickstart](https://revel.github.io/tutorial/index.html) [Examples](https://revel.github.io/examples/index.html) |  |
+| [Revel](https://github.com/revel/revel) | 13.1k | [Docs](https://revel.github.io/manual/index.html) <br> [Quickstart](https://revel.github.io/tutorial/index.html) <br> [Examples](https://revel.github.io/examples/index.html) |  |
 
 ### Java / JVM-based
 
