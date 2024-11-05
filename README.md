@@ -102,3 +102,9 @@ There are some frameworks not listed here that some would argue are Rails-like, 
 | Name | ⭐ Stars | Learning | Notes |
 | ---- | -------- | -------- | ----- |
 | [Loco](https://github.com/loco-rs/loco) | 3.7k | [Docs](https://loco.rs/docs/getting-started/tour/) <br> [Examples](https://loco.rs/docs/starters/saas/) <br> [Screencasts](https://loco.rs/casts/) |  |
+
+### Swift
+
+| Name | ⭐ Stars | Learning | Notes |
+| ---- | -------- | -------- | ----- |
+| [Vapor](https://vapor.codes) | 24.5k | [Docs](https://docs.vapor.codes) |  |
